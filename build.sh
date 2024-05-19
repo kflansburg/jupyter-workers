@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello World"
+cd lite
+jupyter lite build --output-dir dist
